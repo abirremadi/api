@@ -1,0 +1,16 @@
+.title{
+    color:darkviolet;
+
+}
+.container{
+    text-align: center;
+}
+.users{
+    background-color:pink;
+    border-radius: 50px;
+    
+}
+.icon{
+    height: 100px;
+    width:100px;
+}
